@@ -1,5 +1,5 @@
 # Rust stuff
-/target
+target/
 
 # VScode
 .vscode
